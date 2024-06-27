@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.348708ed.css",
+    "main.js": "/static/js/main.925a9ff6.js",
+    "static/js/453.cf50203e.chunk.js": "/static/js/453.cf50203e.chunk.js",
+    "static/media/gg.svg": "/static/media/gg.11516ba746a6c6ff3fa1a1e42022efad.svg",
+    "static/media/work-4.svg": "/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
+    "static/media/work-3.svg": "/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
+    "static/media/work-1.svg": "/static/media/work-1.bebc0ee30ea8dd5325cfeb0fe8f2615b.svg",
+    "static/media/service-1.svg": "/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
+    "static/media/work-6.svg": "/static/media/work-6.e53b868f21628c547fd12d76c5b599db.svg",
+    "static/media/work-5.svg": "/static/media/work-5.d7139045fa5cd7bea4b9807b31919a00.svg",
+    "static/media/kevinZavatar-2.svg": "/static/media/kevinZavatar-2.a4d11c338eedb82df11e4864bca1e671.svg",
+    "static/media/work-2.svg": "/static/media/work-2.2b1987b3b6f51b87b2538a61b31a43d4.svg",
+    "static/media/service-3.svg": "/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
+    "static/media/service-2.svg": "/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/logo.svg": "/static/media/logo.8c2fb23675dc34b2041044d6dd41e4e3.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/index.html",
+    "main.348708ed.css.map": "/static/css/main.348708ed.css.map",
+    "main.925a9ff6.js.map": "/static/js/main.925a9ff6.js.map",
+    "453.cf50203e.chunk.js.map": "/static/js/453.cf50203e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.348708ed.css",
+    "static/js/main.925a9ff6.js"
+  ]
+}
