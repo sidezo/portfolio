@@ -22,14 +22,15 @@ const Sidebar = () => {
                 <i className="icon-user-following"></i>
               </a>
             </li>
-            <li className="nav_item">
-              <a href="#services" className="nav_link">
-                <i className="icon-briefcase"></i>
-              </a>
-            </li>
+      
             <li className="nav_item">
               <a href="#resume" className="nav_link">
                 <i className="icon-graduation"></i>
+              </a>
+            </li>
+            <li className="nav_item">
+              <a href="#services" className="nav_link">
+                <i className="icon-briefcase"></i>
               </a>
             </li>
             <li className="nav_item">
@@ -37,11 +38,11 @@ const Sidebar = () => {
                 <i className="icon-layers"></i>
               </a>
             </li>
-            <li className="nav_item">
+            {/* <li className="nav_item">
               <a href="#blog" className="nav_link">
                 <i className="icon-note"></i>
               </a>
-            </li>
+            </li> */}
             <li className="nav_item">
               <a href="#contact" className="nav_link">
                 <i className="icon-bubbles"></i>
